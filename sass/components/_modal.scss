@@ -174,7 +174,7 @@
   fill: transparent;
 }
 
-.policy-box__check:checked + .policy-box__span {
+.policy-box__check:checked + .policy-box__text .policy-box__span {
   background-color: var(--accent-color);
   fill: var(--primary-white-color);
   border: none;
