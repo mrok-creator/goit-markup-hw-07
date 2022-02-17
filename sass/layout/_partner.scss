@@ -9,7 +9,7 @@
 
   color: var(--text-secondary-color);
 }
-.partner-list {
+.partners {
   display: flex;
 
   align-items: center;
@@ -22,7 +22,7 @@
   }
 }
 
-.partner-link {
+.partners__link {
   display: block;
 
   width: 170px;
@@ -46,7 +46,7 @@
   }
 }
 
-.partner-icon {
+.partners__icon {
   display: block;
   fill: currentColor;
 }

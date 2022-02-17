@@ -1,4 +1,4 @@
-.social-link-box {
+.social {
   display: flex;
 
   width: 206px;
@@ -13,7 +13,7 @@
   }
 }
 
-.social-link {
+.social__link {
   display: block;
 
   width: 44px;
@@ -34,7 +34,7 @@
   }
 }
 
-.link-icon {
+.social__icon {
   display: block;
   fill: currentColor;
   margin: 0 auto;
